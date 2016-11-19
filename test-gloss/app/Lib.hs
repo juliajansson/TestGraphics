@@ -11,7 +11,5 @@ testp = Bitmap width height bitmap False
 
 -- Perhaps later: check out https://hackage.haskell.org/package/gloss-raster-accelerate-1.9.0.0/docs/src/Graphics-Gloss-Accelerate-Raster-Array.html
 
-
-
 someFunc :: IO ()
-someFunc = putStrLn "someFunc"
+someFunc =putStrLn "someFunc"
